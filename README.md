@@ -17,6 +17,7 @@ This repository contains a collection of beginner-friendly Python projects built
 | 7. | **Password Strength Checker** | Analyzes the strength of a password based on length, special characters, etc. |
 | 8. | **File Manipulation Tool** | Performs basic file operations like reading, writing, appending, and deleting content in text files. |
 | 9. | **Fibonacci Sequence Generator** | Generates Fibonacci series up to a given number or term using loops or recursion. |
+| 10. | **Rock Paper Scissors Game** | A fun CLI-based Rock✊ Paper🖐 Scissor✌️ game using random module. |
 
 ---
 ## 🛠 Technologies Used
